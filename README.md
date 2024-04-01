@@ -12,4 +12,6 @@ On this cart emulator you can add multiple products (guitars) to the cart. Also 
 
 Finally, the cart is persistent, as it saves the products on the LocalStorage, so you can refresh the browser and the products will remain in the cart.
 
+You can check the project here: https://guitar-cart-react-ts.netlify.app/
+
 
